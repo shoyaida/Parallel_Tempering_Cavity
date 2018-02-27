@@ -7,7 +7,7 @@ Perform parallel-tempering Monte Carlo (MC) simulation to efficiently sample con
 Files
 -----
 
--CavityPT_KA.c
+- CavityPT_KA.c
 Main code: details of the algorithm are stipulated in L. Berthier, P. Charbonneau, and S. Yaida, "Efficient measurement of point-to-set correlations and overlap fluctuations in glass-forming liquids," J. Chem. Phys. 144, 024501 (2016).
 
 - ran_uniform.c
@@ -20,7 +20,7 @@ Header file for uniform random generator.
 - makefile
 Makefile that generates the executive file, CPT.
 
--test_SamplingParameters.dat
+- test_SamplingParameters.dat
 1st element=Ndump=dumping frequency of cavity snapshots;
 2nd element=Nsnap=number of total snapshots;
 3rd element=cavity_size=the size of cavity in which particles move.
