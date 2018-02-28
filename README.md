@@ -8,7 +8,8 @@ Files
 -----
 
 - CavityPT_KA.c  
-Main code: details of the algorithm are stipulated in  L. Berthier, P. Charbonneau, and S. Yaida, "Efficient measurement of point-to-set correlations and overlap fluctuations in glass-forming liquids," J. Chem. Phys. 144, 024501 (2016).
+Main code: details of the algorithm are stipulated in  
+L. Berthier, P. Charbonneau, and S. Yaida, "Efficient measurement of point-to-set correlations and overlap fluctuations in glass-forming liquids," J. Chem. Phys. 144, 024501 (2016).
 
 - ran_uniform.c  
 Uniform random number generator code.  
