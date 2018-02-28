@@ -15,21 +15,24 @@ Uniform random number generator code.
 This is redistribution: Copyright (C) 1997 Makoto Matsumoto and Takuji Nishimura; GNU Library General Public License.
 
 - ran_uniform.h  
-Header file for uniform random generator.
+Header file for uniform random number generator.
 
 - makefile  
 Makefile that generates the executive file, CPT.
 
-- test_SamplingParameters.dat  
+- test_SamplingParameters.dat
+Data for a test run.  
 1st element=Ndump=dumping frequency of cavity snapshots;  
 2nd element=Nsnap=number of total snapshots;  
 3rd element=cavity_size=the size of cavity in which particles move.
 
-- test_PTParameters.dat  
+- test_PTParameters.dat 
+Data for a test run.  
 1st element=n_replica=number of replicas;  
 the rest are columns consisting of temperatures and lambdas.
 
 - test_CavitySample.dat  
+Data for a test run.  
 1st element=NA=number of A-species particles;  
 2nd element=NB=number of B-species particles;  
 3rd element=beta=inverse temperature;  
