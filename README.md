@@ -21,7 +21,7 @@ Header file for uniform random number generator.
 - makefile  
 Makefile that generates the executive file, CPT.
 
-- test_SamplingParameters.dat
+- test_SamplingParameters.dat  
 Data for a test run.  
 1st element=Ndump=dumping frequency of cavity snapshots;  
 2nd element=Nsnap=number of total snapshots;  
